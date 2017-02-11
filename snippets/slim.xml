@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="packages/apps/Settings" name="cuzz1369-Slim/packages_apps_Settings" />
-  <project path="frameworks/base" name="cuzz1369-Slim/frameworks_base" />
-  <project path="platform_manifest" name="cuzz1369-Slim/platform_manifest" />
-  <project path="vendor/slim" name="cuzz1369-Slim/vendor_slim" />  
-  <project path="frameworks/opt/slim" name="cuzz1369-Slim/frameworks_opt_slim" />
+  <project path="packages/apps/Settings" name="cuzz1369-Slim/packages_apps_Settings" revision="cz" />
+  <project path="frameworks/base" name="cuzz1369-Slim/frameworks_base" revision="cz" />
+  <project path="platform_manifest" name="cuzz1369-Slim/platform_manifest" revision="cz" />
+  <project path="vendor/slim" name="cuzz1369-Slim/vendor_slim" revision="cz" />
+  <project path="frameworks/opt/slim" name="cuzz1369-Slim/frameworks_opt_slim" revision="cz" />
 
 
   <!-- Aosp Forks -->
